@@ -103,8 +103,9 @@ Jenkins | CI/CD | Kafka | Redis
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000000000abhi&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=000000000abhi&show_icons=true&theme=tokyonight" />
 </p>
+
 
 
 ---
