@@ -120,4 +120,11 @@ Jenkins | CI/CD | Kafka | Redis
 ## 💡 What Sets Me Apart
 
 ✔ Strong Competitive Programming foundation  
-✔ Production-
+✔ Production-level backend & automation experience  
+✔ Exposure to Kafka, Redis & CI/CD pipelines  
+✔ Performance optimization mindset  
+✔ Clean, scalable, maintainable code  
+
+---
+
+⭐ Always building. Always learning. Always optimizing.
